@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+pyrogram
+tgcrypto
+pymongo
+gradio_client
+requests
+flask
