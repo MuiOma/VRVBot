@@ -10,7 +10,7 @@ import database  # Tumhari database.py file
 import keep_alive # Server ko zinda rakhne ke liye
 
 # --- ⚙️ CONFIGURATION (Yahan Apni Details Dubara Daalo) ---
-BOT_TOKEN = "8504712030:AAF8I8o-cgl4TP6VQOhh8XbkLI2ZHFA9peA"      # BotFather wala Token
+BOT_TOKEN = "8587568228:AAG5zI9Bvlm3p6aSQlgzIFfOHcnUybxAFwY"      # BotFather wala Token
 API_ID = 20695130                        # Telegram API ID
 API_HASH = "530ea887626566c365a046c01635ee67"        # Telegram API Hash
 PASSWORD = "Boss1"                      # Bot ka Password
